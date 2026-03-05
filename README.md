@@ -2,7 +2,7 @@
 
 Undergraduate Signals & Systems Project  
 University of Pretoria  
-Completed: March 2020  
+Completed: November 2020
 
 ---
 
